@@ -1,6 +1,6 @@
 # TidyTuesday
 
-A collection of my contribution to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data projected created by [Thomas Mock](https://thomasmock.netlify.app/) and organized by the [R4DS Online Learning Community](https://www.rfordatasci.com/). #TidyTuesday focuses on undestanding and using `tidyr`, `dplyr`, `ggplot2` and others to anaylze data. 
+A collection of my contribution to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data projected created by [Thomas Mock](https://thomasmock.netlify.app/) and organized by the [R4DS Online Learning Community](https://www.rfordatasci.com/). #TidyTuesday focuses on undestanding and using `tidyr`, `dplyr`, `ggplot2` among others to anaylze data. 
 
 <details>
   <summary>Contributions in chronological order (click to expand)</summary>
