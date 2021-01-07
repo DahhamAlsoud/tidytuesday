@@ -34,6 +34,3 @@ A collection of my contribution to [#TidyTuesday](https://github.com/rfordatasci
 * format inspired by [Jack Davison](https://github.com/jack-davison) and [
 Cédric Scherer](https://github.com/Z3tt)
 
-## Contact
-
-If you want to contact me you can reach me at diehlcatalano.1@osu.edu.
