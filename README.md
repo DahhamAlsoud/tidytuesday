@@ -19,6 +19,12 @@ A collection of my contribution to [#TidyTuesday](https://github.com/rfordatasci
 
 ![./Week 4 - Netflix/netflix_plot.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%204%20-%20Netflix/netflix_plot.png)
 
+![./Week 4 - Netflix/daily_ep.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%204%20-%20Netflix/daily_ep.png)
+
+![./Week 4 - Netflix/weekdays.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%204%20-%20Netflix/weekdays.png)
+
+![./Week 4 - Netflix/months.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%204%20-%20Netflix/months.png)
+
 ![./Week 1 - Sugar Bowl/ohio state offense statistics.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%201%20-%20Sugar%20Bowl%20/ohio%20state%20offense%20statistics.png)
 
 
