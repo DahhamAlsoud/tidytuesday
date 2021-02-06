@@ -17,9 +17,11 @@ A collection of my contribution to [#TidyTuesday](https://github.com/rfordatasci
 
 # Highlighted Visuals 
 
-![./2021 Week 1 - Sugar Bowl/ohio state offense statistics.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%201%20-%20Sugar%20Bowl%20/ohio%20state%20offense%20statistics.png)
+![./Week 4 - Netflix/netflix_plot.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%204%20-%20Netflix/netflix_plot.png)
 
-![./2021 Week 2 transit-cost.png](https://github.com/juliacat23/tidytuesday/blob/main/%202021%20Week%202%20/transit-cost.png)
+![./Week 1 - Sugar Bowl/ohio state offense statistics.png](https://github.com/juliacat23/tidytuesday/blob/main/Week%201%20-%20Sugar%20Bowl%20/ohio%20state%20offense%20statistics.png)
+
+
 
 
 
