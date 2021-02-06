@@ -17,8 +17,6 @@ A collection of my contribution to [#TidyTuesday](https://github.com/rfordatasci
 
 # Highlighted Visuals 
 
-![./netflix_plot.png](https://github.com/juliacat23/tidytuesday/blob/main/netflix_plot.png)
-
 ![./2021 Week 1 ohio state offense statistics.png](https://github.com/juliacat23/tidytuesday/blob/main/2021%20Week%201%20/ohio%20state%20offense%20statistics.png)
 
 ![./2021 Week 2 transit-cost.png](https://github.com/juliacat23/tidytuesday/blob/main/%202021%20Week%202%20/transit-cost.png)
